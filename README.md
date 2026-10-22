@@ -22,8 +22,8 @@ ________________________________________
 ________________________________________
 # IP Addressing Table
 Device	Interface	IP Address	Subnet Mask<br>
-PC0	NIC	192.168.1.10	255.255.255.0<br>
-PC1	NIC	192.168.2.10	255.255.255.0<br>
+PC0	NIC	192.168.1.1	255.255.255.0<br>
+PC1	NIC	192.168.2.2	255.255.255.0<br>
 Router0	FastEthernet0/0	192.168.1.1	255.255.255.0<br>
 Router0	FastEthernet0/1	192.168.2.1	255.255.255.0<br>
 ________________________________________
@@ -65,7 +65,7 @@ ________________________________________
 
 •	Successful ping between PC0 and PC1<br>
 
-<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/4b75a921-2bdb-41cb-8870-e8e34934d0d9" />
+<img width="1918" height="1009" alt="image" src="https://github.com/user-attachments/assets/5157c89b-7888-4f08-977a-6e0fc94c3a9b" />
 
 ________________________________________
 # Result
